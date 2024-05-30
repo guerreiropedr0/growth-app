@@ -1,24 +1,7 @@
-# README
+# Growth App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a small landing page project to practice my front-end skills.
 
-Things you may want to cover:
+I've been using back-end way more lately so this is just a refresher on how to do stuff.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Layout from [ICodeThis](https://icodethis.com/).
